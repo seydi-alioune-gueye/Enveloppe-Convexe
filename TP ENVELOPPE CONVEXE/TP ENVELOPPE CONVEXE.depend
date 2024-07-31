@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1705643163 source:c:\users\lenovo\desktop\analyse et structure de données\tp enveloppe convexe\main.cpp
+	<iostream>
+	<vector>
+	"graphics.h"
+	<ctime>
+	<cstdlib>
+
+1700445123 source:c:\users\lenovo\desktop\analyse et structure de données\tp enveloppe convexe\winbgi.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics.h"
+
+1700445123 c:\users\lenovo\desktop\analyse et structure de données\tp enveloppe convexe\graphics.h
+
